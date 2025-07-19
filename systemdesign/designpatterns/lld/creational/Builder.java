@@ -1,4 +1,4 @@
-package lld.designpatterns.creational;
+package systemdesign.designpatterns.lld.creational;
 
 class Builder {
     public static void main( String[] args ) {

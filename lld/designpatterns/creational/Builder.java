@@ -1,4 +1,4 @@
-package src.main.java.LLD;
+package lld.designpatterns.creational;
 
 class Builder {
     public static void main( String[] args ) {
